@@ -1,0 +1,16 @@
+Package: montyhall
+Title: Creates monty hall game and plays it, recording results
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christopher",
+           family = "Ogino",
+           role = c("aut", "cre"),
+           email = "chrisogino@gmail.com")
+Description: What the package does (one paragraph).
+Depends: 
+   dplyr
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
